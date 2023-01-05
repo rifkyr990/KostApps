@@ -5,11 +5,9 @@
     <div class="container">
         <div class="text-center d-flex justify-content-center w-100 flex-column " style="height: 500px;">
             <div class="main">
-                <h2 class="text-light">Papakost</h2>
-                <p class="d-block mx-auto w-50 my-4 text-light">Lorem ipsum dolor sit, amet consectetur adipisicing
-                    elit. Atque, itaque enim adipisci quis aliquid voluptate! Inventore cum debitis facilis earum
-                    assumenda culpa ipsum incidunt sequi ipsa! Minus dolores non incidunt!</p>
-                <a href="{{ url('/animal') }}" class="btn btn-primary my-3 text-decoration-none">Cari sekarang</a>
+                <h2 class="text-light">Kostku</h2>
+                <p class="d-block mx-auto w-50 my-4 text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, repellat consequuntur esse doloribus, facilis nostrum ut delectus commodi harum voluptatum, beatae animi voluptas blanditiis perferendis perspiciatis odit dignissimos debitis a.</p>
+                <a href="{{route('allkost') }}" class="btn btn-primary my-3 text-decoration-none">Cari sekarang</a>
             </div>
         </div>
     </div>
